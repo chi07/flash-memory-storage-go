@@ -1,4 +1,4 @@
-package flash_memory_storage_go
+package flashstorage
 
 import (
 	"sync"
